@@ -1,5 +1,5 @@
 {
-	"name": "placid",
+	"name": "place-share",
 	"version": "0.0.1",
 	"description": "A select and share a place app",
 	"main": "src/app.ts",
